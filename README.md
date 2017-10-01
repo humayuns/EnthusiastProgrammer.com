@@ -4,3 +4,7 @@ This repository contains resources related to my website ([enthusiastprogrammer.
 ## New Articles
 * http://enthusiastprogrammer.com/2017/09/24/smalltalk-draw-circle-using-the-pen/
 * http://enthusiastprogrammer.com/2017/09/14/smalltalk-drawing-using-morphic/
+
+## Upcomming Articles
+* Smalltalk Drawing using Pen
+* Terse Guide to VBScript
